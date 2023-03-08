@@ -1,0 +1,48 @@
+.container {
+	margin: 0 auto;
+	max-width: 800px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+
+label {
+	font-size: 24px;
+}
+
+input[type="text"] {
+	font-size: 24px;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+button {
+	font-size: 24px;
+	padding: 5px 10px;
+	margin-bottom: 10px;
+	background-color: #4CAF50;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #3e8e41;
+}
+
+p {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+#result {
+	font-weight: bold;
+}
+
+#game {
+	margin-top: 20px;
+}
